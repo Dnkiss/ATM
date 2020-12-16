@@ -1,0 +1,7 @@
+﻿  ATM.cpp
+C:\Users\Hinassa\Desktop\ATM\ATM.cpp(233,9): warning C4101: “transmoney”: 未引用的局部变量
+C:\Users\Hinassa\Desktop\ATM\ATM.cpp(235,9): warning C4101: “select”: 未引用的局部变量
+C:\Users\Hinassa\Desktop\ATM\ATM.cpp(387,9): warning C4101: “i”: 未引用的局部变量
+C:\Users\Hinassa\Desktop\ATM\ATM.cpp(412,33): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Hinassa\Desktop\ATM\ATM.cpp(443,37): warning C4018: “<”: 有符号/无符号不匹配
+  ATM.vcxproj -> C:\Users\Hinassa\Desktop\ATM\Debug\ATM.exe

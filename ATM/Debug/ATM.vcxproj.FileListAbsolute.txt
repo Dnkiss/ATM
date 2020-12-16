@@ -1,0 +1,2 @@
+C:\Users\Hinassa\Desktop\ATM\Debug\ATM.exe
+C:\Users\Hinassa\Desktop\ATM\Debug\ATM.pdb
